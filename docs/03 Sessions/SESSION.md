@@ -1,31 +1,30 @@
-# SESSION  
-  
-Fecha:   
-2026-07-21  
-  
-Tipo:   
-Sesión de diseño  
-  
-Objetivo:   
-Probar si Mimir puede transferir contexto entre conversaciones.  
-  
-Actividades realizadas:  
-  
-- Se creó la estructura inicial de Mimir.  
-- Se definieron los archivos MIMIR.md, CONTEXT.md y CHANGELOG.md.  
-- Se estableció que Mimir administrará contexto, no conversaciones.  
-- Se decidió iniciar con una implementación simple basada en archivos Markdown.  
-  
-Decisiones tomadas:  
-  
-- No crear una aplicación todavía.  
-- Validar primero el modelo de contexto.  
-- Priorizar funcionamiento desde celular.  
-  
-Resultado:  
-  
-Primera versión funcional del Brain de Mimir creada.  
-  
-Siguiente paso:  
-  
-Diseñar el primer Context Snapshot.  
+# Session
+
+Date: 2026-07-21
+
+Type: Design Session
+
+## Goal
+
+Test whether Mimir can transfer context between conversations.
+
+## Work Completed
+
+- Created Mimir's initial structure.
+- Defined `MIMIR.md`, `CONTEXT.md`, and `CHANGELOG.md`.
+- Established that Mimir manages context, not conversations.
+- Decided to begin with a simple Markdown-based implementation.
+
+## Decisions Made
+
+- Do not create an application yet.
+- Validate the context model first.
+- Prioritize mobile usability.
+
+## Outcome
+
+Created the first functional version of the Mimir knowledge base.
+
+## Next Action
+
+Design the first Context Snapshot.

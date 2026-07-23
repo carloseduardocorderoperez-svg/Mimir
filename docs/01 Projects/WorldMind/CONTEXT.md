@@ -1,41 +1,41 @@
 # Context Snapshot
 
-Última actualización: 2026-07-22
+Last updated: 2026-07-22
 
-## Identidad
+## Identity
 
-- Proyecto: WorldMind
-- Estado: Idea
+- Project: WorldMind
+- Status: Idea
 
-## Objetivo actual
+## Current Goal
 
-Convertir la visión de un simulador de mundo vivo controlado por IA en un concepto de juego delimitado y prototipable para móvil.
+Turn the vision of an AI-controlled living-world simulator into a scoped, prototype-ready mobile game concept.
 
-## Estado actual
+## Current State
 
-- Existe una visión general del juego.
-- La interacción prevista es mediante voz o texto.
-- Aún no están decididos el núcleo jugable, el alcance del primer prototipo ni la arquitectura de IA.
+- A general vision for the game exists.
+- The planned interaction is through voice or text.
+- The core gameplay loop, first prototype scope, and AI architecture are not decided yet.
 
-## Próxima acción
+## Next Action
 
-- Acción: definir el bucle de juego principal y la primera interacción concreta entre jugador e IA.
-- Criterio de terminado: una descripción de una sesión de juego de cinco minutos, con acciones del jugador, respuesta del mundo y condición de progreso.
+- Action: define the core gameplay loop and the first concrete player-AI interaction.
+- Definition of done: a description of a five-minute play session, including player actions, world response, and a progression condition.
 
-## Decisiones vigentes
+## Current Decisions
 
-- El producto objetivo es un videojuego móvil.
-- La IA es parte activa del mundo, no solo una interfaz de chat.
+- The target product is a mobile video game.
+- The AI is an active part of the world, not only a chat interface.
 
-## Riesgos y preguntas abiertas
+## Risks and Open Questions
 
-- Qué parte de la simulación debe ocurrir localmente y cuál requiere servicios remotos.
-- Cómo lograr una interacción por voz útil sin ralentizar el juego.
-- Qué mecánica mínima diferencia a WorldMind de sus referentes.
+- Which part of the simulation should run locally and which part requires remote services.
+- How to make voice interaction useful without slowing down the game.
+- Which minimum mechanic differentiates WorldMind from its references.
 
-## Lecturas necesarias
+## Required Reading
 
 - [README](README.md)
-- [Tareas](TASKS.md)
-- [Decisiones](DECISIONS.md)
+- [Tasks](TASKS.md)
+- [Decisions](DECISIONS.md)
 - [Ideas](IDEAS.md)

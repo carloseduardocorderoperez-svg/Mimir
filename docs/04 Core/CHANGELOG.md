@@ -1,45 +1,50 @@
 # CHANGELOG  
 
+## v0.2.1 - 2026-07-22
+
+### Changed
+
+- Established English as the canonical language for Mimir's public documentation.
+- Translated the protocol, templates, project documents, and historical session record.
+
+### Goal
+
+Prepare Mimir for international collaboration without changing its documented behavior.
+
 ## v0.2.0 - 2026-07-22
 
-### Añadido
+### Added
 
-- Protocolo mínimo para iniciar y cerrar sesiones con personas o IAs.
-- Plantillas para proyectos, Context Snapshot, tareas, decisiones y sesiones.
-- Definición de documentos mínimos y orden de autoridad de la información.
+- Minimum protocol for starting and closing sessions with people or AIs.
+- Templates for projects, Context Snapshots, tasks, decisions, and sessions.
+- Definition of minimum documents and the information authority order.
 
-### Objetivo
+### Goal
 
-Validar que el contexto de un proyecto pueda retomarse sin el historial de chats.
+Validate that a project's context can be resumed without chat history.
   
-## v0.1.0  
+## v0.1.0 - 2026-07-21
   
-Fecha:   
-2026-07-21  
-  
-Creado:  
-  
-- Nace el proyecto Mimir.  
-- Se define como sistema de contexto para proyectos con IA.  
-- Se crea la estructura inicial de documentos.  
-  
-Decisiones:  
-  
-- Priorizar simplicidad.  
-- No crear software todavía.  
-- Validar el modelo antes de programar.  
+### Created
 
-## v0.1.1
+- Started the Mimir project.
+- Defined it as a context system for AI-assisted projects.
+- Created the initial document structure.
 
-Fecha:
-2026-07-21
+### Decisions
 
-Cambios:
+- Prioritize simplicity.
+- Do not create software yet.
+- Validate the model before programming.
 
-- Creado primer registro de sesión.
-- Actualizado CONTEXT.md con el estado actual.
-- Primera prueba de transferencia de contexto iniciada.
+## v0.1.1 - 2026-07-21
 
-Objetivo:
+### Changed
 
-Validar que una IA pueda continuar un proyecto leyendo Mimir.
+- Created the first session record.
+- Updated `CONTEXT.md` with the current state.
+- Started the first context-transfer test.
+
+### Goal
+
+Validate that an AI can continue a project by reading Mimir.

@@ -1,22 +1,22 @@
 # Mimir
 
-Estado: Activo
+Status: Active
 
-## Objetivo
+## Goal
 
-Definir y validar un estándar abierto, basado en Markdown, para preservar y retomar el conocimiento de proyectos asistidos por IA.
+Define and validate an open, Markdown-based standard for preserving and resuming the knowledge of AI-assisted projects.
 
-## Alcance
+## Scope
 
-El proyecto define estructura, protocolo y plantillas. Una aplicación móvil, integración por voz y automatizaciones pertenecen a fases posteriores.
+This project defines structure, protocol, and templates. A mobile application, voice integration, and automation belong to later phases.
 
-## Resultado esperado
+## Expected Outcome
 
-Un vault que una persona o IA pueda retomar desde un Context Snapshot, actualizar con trazabilidad y mantener desde móvil.
+A vault that a person or AI can resume through a Context Snapshot, update with traceability, and maintain from mobile.
 
-## Documentos
+## Documents
 
 - [Context Snapshot](CONTEXT.md)
-- [Tareas](TASKS.md)
-- [Decisiones](DECISIONS.md)
+- [Tasks](TASKS.md)
+- [Decisions](DECISIONS.md)
 - [Roadmap](ROADMAP.md)

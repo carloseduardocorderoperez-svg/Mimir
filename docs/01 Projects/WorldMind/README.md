@@ -1,22 +1,22 @@
 # WorldMind
 
-Estado: Idea
+Status: Idea
 
-## Objetivo
+## Goal
 
-Crear un videojuego móvil donde el jugador interactúe por voz o texto con una IA que controla y evoluciona un mundo vivo.
+Create a mobile video game where the player interacts through voice or text with an AI that controls and evolves a living world.
 
-## Alcance inicial
+## Initial Scope
 
-La IA podrá crear y modificar terreno, biomas, seres, recursos y civilizaciones. El diseño inicial explora mecánicas inspiradas en WorldBox, Age of Empires, Civilization y Black & White.
+The AI can create and modify terrain, biomes, beings, resources, and civilizations. The initial design explores mechanics inspired by WorldBox, Age of Empires, Civilization, and Black & White.
 
-## Resultado esperado
+## Expected Outcome
 
-Definir un concepto de juego validable y una primera especificación que permita iniciar un prototipo móvil.
+Define a testable game concept and an initial specification that enables a mobile prototype.
 
-## Documentos
+## Documents
 
 - [Context Snapshot](CONTEXT.md)
-- [Tareas](TASKS.md)
-- [Decisiones](DECISIONS.md)
+- [Tasks](TASKS.md)
+- [Decisions](DECISIONS.md)
 - [Ideas](IDEAS.md)

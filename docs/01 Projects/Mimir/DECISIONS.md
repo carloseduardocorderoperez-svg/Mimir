@@ -1,29 +1,29 @@
-# Decisiones
+# Decisions
 
-## 2026-07-22 - Validar el protocolo antes de crear una aplicación
+## 2026-07-22 - Validate the Protocol Before Creating an Application
 
-Decisión:
+Decision:
 
-Priorizar el protocolo documental y su uso manual con IA antes de desarrollar una interfaz o automatización.
+Prioritize the document protocol and its manual use with AI before developing an interface or automation.
 
-Motivo:
+Rationale:
 
-La aplicación debe resolver necesidades demostradas por el uso real del sistema, no suposiciones.
+The application must solve needs demonstrated by real use of the system, not assumptions.
 
-Consecuencias:
+Consequences:
 
-Las primeras releases se centran en Markdown, estructura, plantillas y pruebas de transferencia de contexto.
+Early releases focus on Markdown, structure, templates, and context-transfer tests.
 
-## 2026-07-22 - Usar Context Snapshot como punto de entrada
+## 2026-07-22 - Use Context Snapshot as the Entry Point
 
-Decisión:
+Decision:
 
-Cada proyecto activo tendrá un `CONTEXT.md` breve y actualizado.
+Every active project will have a concise, current `CONTEXT.md`.
 
-Motivo:
+Rationale:
 
-Una IA necesita identificar rápidamente el estado y la próxima acción sin leer el historial completo.
+An AI needs to quickly identify the state and next action without reading the complete history.
 
-Consecuencias:
+Consequences:
 
-El cierre de cada sesión debe actualizar el snapshot cuando cambie el estado del proyecto.
+Closing each session must update the snapshot whenever the project state changes.

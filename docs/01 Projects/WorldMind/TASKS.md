@@ -1,17 +1,17 @@
-# Tareas
+# Tasks
 
-## Ahora
+## Now
 
-- [ ] Definir el bucle principal de juego de WorldMind.
-  - Prioridad: Alta
-  - Criterio de terminado: el documento explica una sesión de juego de cinco minutos y el progreso del jugador.
+- [ ] Define WorldMind's core gameplay loop.
+  - Priority: High
+  - Definition of done: the document explains a five-minute play session and player progression.
 
-- [ ] Elegir un único escenario para el primer prototipo.
-  - Prioridad: Alta
-  - Criterio de terminado: se describen las entidades, acciones y límites del prototipo.
+- [ ] Choose one scenario for the first prototype.
+  - Priority: High
+  - Definition of done: the prototype's entities, actions, and limits are described.
 
-## Después
+## Later
 
-- [ ] Investigar opciones técnicas para simulación y conversación con IA en móvil.
-  - Prioridad: Media
-  - Criterio de terminado: se comparan opciones locales y remotas con sus costes y limitaciones.
+- [ ] Research technical options for simulation and AI conversation on mobile.
+  - Priority: Medium
+  - Definition of done: local and remote options are compared with their costs and limitations.

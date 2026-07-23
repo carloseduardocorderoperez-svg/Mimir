@@ -1,16 +1,16 @@
 # Ideas
 
-## Mundo vivo dirigido por IA
+## AI-Directed Living World
 
-- La IA puede crear terreno, biomas, animales y humanos.
-- La IA puede administrar recursos, economías, civilizaciones, tecnología y conflictos.
-- El jugador puede comunicarse por voz o texto para influir en el mundo.
+- The AI can create terrain, biomes, animals, and humans.
+- The AI can manage resources, economies, civilizations, technology, and conflicts.
+- The player can use voice or text to influence the world.
 
-## Referentes
+## References
 
 - WorldBox
 - Age of Empires
 - Civilization
 - Black & White
 
-Estas ideas no son decisiones de diseño. Deben validarse antes de pasar a una especificación.
+These ideas are not design decisions. They must be validated before moving to a specification.

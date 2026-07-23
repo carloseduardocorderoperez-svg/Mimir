@@ -1,23 +1,28 @@
 # Roadmap
 
-## v0.2.0 - Protocolo mínimo
+## v0.2.0 - Minimum Protocol
 
-- Definir orden de lectura, orden de autoridad y cierre de sesión.
-- Crear plantillas reutilizables.
-- Aplicar el estándar a Mimir y WorldMind.
+- Define the reading order, authority order, and session close process.
+- Create reusable templates.
+- Apply the standard to Mimir and WorldMind.
 
-## v0.3.0 - Validación manual
+## v0.2.1 - English Documentation
 
-- Probar transferencia de contexto en sesiones reales.
-- Ajustar el Context Snapshot según evidencia de uso.
-- Definir un flujo para procesar Inbox.
+- Establish English as the canonical language for public documentation.
+- Translate the existing protocol, templates, projects, and session record.
 
-## v0.4.0 - Automatización ligera
+## v0.3.0 - Manual Validation
 
-- Diseñar prompts o comandos estandarizados.
-- Reducir actualización manual sin perder trazabilidad.
+- Test context transfer in real sessions.
+- Adjust the Context Snapshot using usage evidence.
+- Define an Inbox processing workflow.
 
-## v1.0.0 - Experiencia móvil
+## v0.4.0 - Lightweight Automation
 
-- Diseñar una interfaz móvil para captura, consulta y actualización.
-- Añadir soporte de voz como flujo de entrada.
+- Design standard prompts or commands.
+- Reduce manual updates without losing traceability.
+
+## v1.0.0 - Mobile Experience
+
+- Design a mobile interface for capture, review, and updates.
+- Add voice support as an input workflow.

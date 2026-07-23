@@ -1,5 +1,5 @@
-# Contexto migrado
+# Migrated Context
 
-El Context Snapshot de Mimir se trasladó a [Mimir/CONTEXT.md](Mimir/CONTEXT.md) con la estructura definida en Mimir v0.2.
+Mimir's Context Snapshot moved to [Mimir/CONTEXT.md](Mimir/CONTEXT.md) using the structure defined in Mimir v0.2.
 
-Este archivo se conserva como punto de entrada para enlaces antiguos.
+This file is kept as an entry point for legacy links.

@@ -1,52 +1,53 @@
 # Mimir
 
-## Sistema de conocimiento para proyectos asistidos por IA
+## Knowledge System for AI-Assisted Projects
 
-Versión: `0.2.0`
+Version: `0.2.1`
 
-Estado: Experimental
+Status: Experimental
 
-## Propósito
+## Purpose
 
-Mimir es un estándar abierto para gestionar conocimiento de proyectos con ayuda de IA. La información vive en archivos Markdown: los chats son temporales y los documentos son permanentes.
+Mimir is an open standard for managing project knowledge with AI assistance. Information lives in Markdown files: chats are temporary, while documents are permanent.
 
-## Principios
+## Principles
 
-- El conocimiento pertenece al proyecto, no a una IA concreta.
-- Los documentos son la fuente de verdad.
-- El formato debe ser legible por personas y compatible con cualquier IA.
-- El sistema debe poder mantenerse desde un teléfono.
-- Cada proyecto debe poder recuperar su estado sin leer el historial completo de conversaciones.
+- Knowledge belongs to the project, not to a specific AI.
+- Documents are the source of truth.
+- The format must be human-readable and compatible with any AI.
+- The system must be maintainable from a phone.
+- Every project must be able to recover its state without reading the complete conversation history.
+- English is the canonical language for Mimir's public documentation.
 
-## Estructura del vault
+## Vault Structure
 
 ```text
 docs/
-├── 00 Inbox/       # Capturas pendientes de clasificar
-├── 01 Projects/    # Proyectos activos
-├── 02 Knowledge/   # Conocimiento reutilizable
-├── 03 Sessions/    # Registro cronológico de trabajo
-├── 04 Core/        # Estándar, protocolo y plantillas de Mimir
-└── 99 Archive/     # Material finalizado
+├── 00 Inbox/       # Unsorted captures
+├── 01 Projects/    # Active projects
+├── 02 Knowledge/   # Reusable knowledge
+├── 03 Sessions/    # Chronological work record
+├── 04 Core/        # Mimir standard, protocol, and templates
+└── 99 Archive/     # Completed material
 ```
 
-## Documentos del estándar
+## Standard Documents
 
-- `PROTOCOL.md`: cómo una persona o IA debe leer y actualizar el vault.
-- `TEMPLATES.md`: plantillas para documentos de proyecto y sesiones.
-- `CHANGELOG.md`: cambios relevantes del estándar Mimir.
+- `PROTOCOL.md`: how a person or AI must read and update the vault.
+- `TEMPLATES.md`: templates for project documents and sessions.
+- `CHANGELOG.md`: notable changes to the Mimir standard.
 
-## Documentos mínimos de un proyecto
+## Minimum Project Documents
 
-- `README.md`: propósito, alcance y estado general.
-- `CONTEXT.md`: snapshot operativo para retomar el trabajo.
-- `TASKS.md`: trabajo accionable y priorizado.
-- `DECISIONS.md`: decisiones vigentes y su justificación.
+- `README.md`: purpose, scope, and general status.
+- `CONTEXT.md`: operational snapshot for resuming work.
+- `TASKS.md`: actionable, prioritized work.
+- `DECISIONS.md`: current decisions and their rationale.
 
-Los documentos opcionales incluyen `IDEAS.md`, `SPECS.md` y `ROADMAP.md`.
+Optional documents include `IDEAS.md`, `SPECS.md`, and `ROADMAP.md`.
 
-## Estado actual
+## Current Status
 
-Mimir v0.2 define el protocolo mínimo y las plantillas para validar la transferencia de contexto entre sesiones.
+Mimir v0.2 defines the minimum protocol and templates for validating context transfer across sessions.
 
-Última actualización: 2026-07-22
+Last updated: 2026-07-22

@@ -1,23 +1,23 @@
-# Plantillas Mimir
+# Mimir Templates
 
-## README de proyecto
+## Project README
 
 ```md
-# Nombre del proyecto
+# Project Name
 
-Estado: Idea | Activo | En pausa | Finalizado
+Status: Idea | Active | On Hold | Completed
 
-## Objetivo
+## Goal
 
-## Alcance
+## Scope
 
-## Resultado esperado
+## Expected Outcome
 
-## Documentos
+## Documents
 
 - [Context Snapshot](CONTEXT.md)
-- [Tareas](TASKS.md)
-- [Decisiones](DECISIONS.md)
+- [Tasks](TASKS.md)
+- [Decisions](DECISIONS.md)
 ```
 
 ## Context Snapshot
@@ -25,67 +25,67 @@ Estado: Idea | Activo | En pausa | Finalizado
 ```md
 # Context Snapshot
 
-Última actualización: AAAA-MM-DD
+Last updated: YYYY-MM-DD
 
-## Identidad
+## Identity
 
-- Proyecto:
-- Estado:
+- Project:
+- Status:
 
-## Objetivo actual
+## Current Goal
 
-## Estado actual
+## Current State
 
-## Próxima acción
+## Next Action
 
-- Acción:
-- Criterio de terminado:
+- Action:
+- Definition of done:
 
-## Decisiones vigentes
+## Current Decisions
 
-## Riesgos y preguntas abiertas
+## Risks and Open Questions
 
-## Lecturas necesarias
+## Required Reading
 
 - [README](README.md)
-- [Tareas](TASKS.md)
-- [Decisiones](DECISIONS.md)
+- [Tasks](TASKS.md)
+- [Decisions](DECISIONS.md)
 ```
 
-## Tarea
+## Task
 
 ```md
-- [ ] Tarea concreta
-  - Prioridad: Alta | Media | Baja
-  - Criterio de terminado:
+- [ ] Concrete task
+  - Priority: High | Medium | Low
+  - Definition of done:
 ```
 
-## Decisión
+## Decision
 
 ```md
-## AAAA-MM-DD - Título de la decisión
+## YYYY-MM-DD - Decision Title
 
-Decisión:
+Decision:
 
-Motivo:
+Rationale:
 
-Consecuencias:
+Consequences:
 ```
 
-## Sesión
+## Session
 
 ```md
-# Sesión AAAA-MM-DD - Nombre
+# Session YYYY-MM-DD - Name
 
-Proyecto:
+Project:
 
-## Objetivo
+## Goal
 
-## Trabajo realizado
+## Work Completed
 
-## Decisiones tomadas
+## Decisions Made
 
-## Cambios en el contexto
+## Context Changes
 
-## Siguiente acción
+## Next Action
 ```
