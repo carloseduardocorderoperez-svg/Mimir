@@ -17,6 +17,9 @@ Mimir is an open standard for managing project knowledge with AI assistance. Inf
 - The format must be human-readable and compatible with any AI.
 - The system must be maintainable from a phone.
 - Every project must be able to recover its state without reading the complete conversation history.
+- Routine project work should be possible with capable, low-cost models when they receive the required documents.
+- Higher-capability models are reserved for complex reasoning, critical reviews, and high-risk decisions.
+- When context caching matters, model changes should happen between bounded sessions rather than mid-session.
 - English is the canonical language for Mimir's public documentation.
 
 ## Vault Structure

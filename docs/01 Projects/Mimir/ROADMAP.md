@@ -13,9 +13,9 @@
 
 ## v0.3.0 - Manual Validation
 
-- Test context transfer in real sessions.
+- Test context transfer in a real session with a capable, low-cost model.
 - Adjust the Context Snapshot using usage evidence.
-- Define an Inbox processing workflow.
+- Record pass or fail results against explicit validation criteria.
 
 ## v0.4.0 - Lightweight Automation
 

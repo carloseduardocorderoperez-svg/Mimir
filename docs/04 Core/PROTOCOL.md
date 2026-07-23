@@ -38,6 +38,14 @@ When documents conflict, this order prevails:
 3. Update `CONTEXT.md` with the actual state, risks, and next action.
 4. Create a concise record in `03 Sessions/` using the corresponding template.
 
+## Model Selection
+
+1. Select the model before starting a bounded session whenever practical.
+2. Use capable, low-cost models for routine work when the required documents provide sufficient context.
+3. Use higher-capability models for complex reasoning, critical reviews, and high-risk decisions.
+4. Avoid switching models mid-session when it would discard useful context caching; prefer a new session with the documents required for the next task.
+5. Record the model and environment when they materially affect a validation result or project decision.
+
 ## Writing Rules
 
 - Separate facts, decisions, hypotheses, and ideas.

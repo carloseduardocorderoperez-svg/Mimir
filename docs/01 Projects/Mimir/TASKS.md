@@ -2,11 +2,11 @@
 
 ## Now
 
-- [ ] Run a context transfer test session with WorldMind.
+- [ ] Run a context transfer test session with WorldMind using a capable, low-cost model.
   - Priority: High
-  - Definition of done: a new conversation can resume work through the Context Snapshot.
+  - Definition of done: a new conversation can resume work through the Context Snapshot and produce updates that pass the criteria in `VALIDATION.md`.
 
-- [ ] Review which Context Snapshot fields were missing or unnecessary during the test.
+- [ ] Review which Context Snapshot fields were missing or unnecessary during the low-cost model test.
   - Priority: High
   - Definition of done: improvements are recorded as a task, decision, or protocol change.
 

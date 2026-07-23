@@ -20,3 +20,4 @@ A vault that a person or AI can resume through a Context Snapshot, update with t
 - [Tasks](TASKS.md)
 - [Decisions](DECISIONS.md)
 - [Roadmap](ROADMAP.md)
+- [Validation Plan](VALIDATION.md)
