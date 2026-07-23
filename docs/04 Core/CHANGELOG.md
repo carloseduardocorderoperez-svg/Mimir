@@ -1,4 +1,16 @@
 # CHANGELOG  
+
+## v0.2.0 - 2026-07-22
+
+### Añadido
+
+- Protocolo mínimo para iniciar y cerrar sesiones con personas o IAs.
+- Plantillas para proyectos, Context Snapshot, tareas, decisiones y sesiones.
+- Definición de documentos mínimos y orden de autoridad de la información.
+
+### Objetivo
+
+Validar que el contexto de un proyecto pueda retomarse sin el historial de chats.
   
 ## v0.1.0  
   
